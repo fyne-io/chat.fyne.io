@@ -1,0 +1,12 @@
+title: Fyne Chat
+email: info@fyne.io
+url: "https://chat.fyne.io"
+
+remote_theme: gdgmanagua/jekyll-mdl
+
+header_type: default
+post_type: highlight
+
+disqus: true
+disqus_shortname: 'fyne-chat'
+
